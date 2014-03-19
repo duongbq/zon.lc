@@ -8,7 +8,7 @@
 /build
 /dist
 /tags
-/nbproject/*
+**/nbproject
 
 # OS generated files #
 ######################
