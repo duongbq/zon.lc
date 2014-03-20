@@ -20,3 +20,4 @@ nbproject/*
 Icon?
 ehthumbs.db
 Thumbs.db
+!/vendors/
